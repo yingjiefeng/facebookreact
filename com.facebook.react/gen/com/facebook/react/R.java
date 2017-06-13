@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.com.facebook.react;
+package com.facebook.react;
 
 public final class R {
     public static final class anim {
@@ -2719,35 +2719,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.example.com.facebook.react:background}</code></td><td> Specifies a background drawable for the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.example.com.facebook.react:backgroundSplit}</code></td><td> Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.example.com.facebook.react:backgroundStacked}</code></td><td> Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.com.facebook.react:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.com.facebook.react:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.example.com.facebook.react:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.example.com.facebook.react:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.com.facebook.react:customNavigationLayout}</code></td><td> Specifies a layout for custom navigation.</td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.example.com.facebook.react:displayOptions}</code></td><td> Options affecting how the action bar is displayed.</td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.example.com.facebook.react:divider}</code></td><td> Specifies the drawable used for item dividers.</td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.example.com.facebook.react:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
-           <tr><td><code>{@link #ActionBar_height com.example.com.facebook.react:height}</code></td><td> Specifies a fixed height.</td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.com.facebook.react:hideOnContentScroll}</code></td><td> Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.com.facebook.react:homeAsUpIndicator}</code></td><td> Up navigation glyph </td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.example.com.facebook.react:homeLayout}</code></td><td> Specifies a layout to use for the "home" section of the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.example.com.facebook.react:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.com.facebook.react:indeterminateProgressStyle}</code></td><td> Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.example.com.facebook.react:itemPadding}</code></td><td> Specifies padding that should be applied to the left and right sides of
+           <tr><td><code>{@link #ActionBar_background com.facebook.react:background}</code></td><td> Specifies a background drawable for the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.facebook.react:backgroundSplit}</code></td><td> Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.facebook.react:backgroundStacked}</code></td><td> Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.facebook.react:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.facebook.react:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.facebook.react:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.facebook.react:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.facebook.react:customNavigationLayout}</code></td><td> Specifies a layout for custom navigation.</td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.facebook.react:displayOptions}</code></td><td> Options affecting how the action bar is displayed.</td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.facebook.react:divider}</code></td><td> Specifies the drawable used for item dividers.</td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.facebook.react:elevation}</code></td><td> Elevation for the action bar itself </td></tr>
+           <tr><td><code>{@link #ActionBar_height com.facebook.react:height}</code></td><td> Specifies a fixed height.</td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.facebook.react:hideOnContentScroll}</code></td><td> Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.facebook.react:homeAsUpIndicator}</code></td><td> Up navigation glyph </td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.facebook.react:homeLayout}</code></td><td> Specifies a layout to use for the "home" section of the action bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.facebook.react:icon}</code></td><td> Specifies the drawable used for the application icon.</td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.facebook.react:indeterminateProgressStyle}</code></td><td> Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.facebook.react:itemPadding}</code></td><td> Specifies padding that should be applied to the left and right sides of
              system-provided items in the bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.example.com.facebook.react:logo}</code></td><td> Specifies the drawable used for the application logo.</td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.example.com.facebook.react:navigationMode}</code></td><td> The type of navigation to use.</td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.example.com.facebook.react:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #ActionBar_logo com.facebook.react:logo}</code></td><td> Specifies the drawable used for the application logo.</td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.facebook.react:navigationMode}</code></td><td> The type of navigation to use.</td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.facebook.react:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the action bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.example.com.facebook.react:progressBarPadding}</code></td><td> Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.example.com.facebook.react:progressBarStyle}</code></td><td> Specifies a style resource to use for an embedded progress bar.</td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.example.com.facebook.react:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.com.facebook.react:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
-           <tr><td><code>{@link #ActionBar_title com.example.com.facebook.react:title}</code></td><td> Specifies title text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.example.com.facebook.react:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.facebook.react:progressBarPadding}</code></td><td> Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.facebook.react:progressBarStyle}</code></td><td> Specifies a style resource to use for an embedded progress bar.</td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.facebook.react:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.facebook.react:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
+           <tr><td><code>{@link #ActionBar_title com.facebook.react:title}</code></td><td> Specifies title text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.facebook.react:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2795,7 +2795,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:background
+          @attr name com.facebook.react:background
         */
         public static int ActionBar_background = 11;
         /**
@@ -2809,7 +2809,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:backgroundSplit
+          @attr name com.facebook.react:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 13;
         /**
@@ -2823,7 +2823,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:backgroundStacked
+          @attr name com.facebook.react:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 12;
         /**
@@ -2842,7 +2842,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetEnd
+          @attr name com.facebook.react:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 22;
         /**
@@ -2861,7 +2861,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetLeft
+          @attr name com.facebook.react:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 23;
         /**
@@ -2880,7 +2880,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetRight
+          @attr name com.facebook.react:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 24;
         /**
@@ -2899,7 +2899,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetStart
+          @attr name com.facebook.react:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 21;
         /**
@@ -2911,7 +2911,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:customNavigationLayout
+          @attr name com.facebook.react:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 14;
         /**
@@ -2935,7 +2935,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:displayOptions
+          @attr name com.facebook.react:displayOptions
         */
         public static int ActionBar_displayOptions = 4;
         /**
@@ -2947,7 +2947,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:divider
+          @attr name com.facebook.react:divider
         */
         public static int ActionBar_divider = 10;
         /**
@@ -2965,7 +2965,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:elevation
+          @attr name com.facebook.react:elevation
         */
         public static int ActionBar_elevation = 25;
         /**
@@ -2983,7 +2983,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:height
+          @attr name com.facebook.react:height
         */
         public static int ActionBar_height = 1;
         /**
@@ -2999,7 +2999,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:hideOnContentScroll
+          @attr name com.facebook.react:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 20;
         /**
@@ -3011,7 +3011,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:homeAsUpIndicator
+          @attr name com.facebook.react:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 2;
         /**
@@ -3023,7 +3023,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:homeLayout
+          @attr name com.facebook.react:homeLayout
         */
         public static int ActionBar_homeLayout = 15;
         /**
@@ -3035,7 +3035,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:icon
+          @attr name com.facebook.react:icon
         */
         public static int ActionBar_icon = 8;
         /**
@@ -3047,7 +3047,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:indeterminateProgressStyle
+          @attr name com.facebook.react:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 17;
         /**
@@ -3066,7 +3066,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:itemPadding
+          @attr name com.facebook.react:itemPadding
         */
         public static int ActionBar_itemPadding = 19;
         /**
@@ -3078,7 +3078,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:logo
+          @attr name com.facebook.react:logo
         */
         public static int ActionBar_logo = 9;
         /**
@@ -3098,7 +3098,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>tabMode</code></td><td>2</td><td> The action bar will use a series of horizontal tabs for navigation. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:navigationMode
+          @attr name com.facebook.react:navigationMode
         */
         public static int ActionBar_navigationMode = 3;
         /**
@@ -3111,7 +3111,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:popupTheme
+          @attr name com.facebook.react:popupTheme
         */
         public static int ActionBar_popupTheme = 26;
         /**
@@ -3129,7 +3129,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:progressBarPadding
+          @attr name com.facebook.react:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 18;
         /**
@@ -3141,7 +3141,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:progressBarStyle
+          @attr name com.facebook.react:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 16;
         /**
@@ -3157,7 +3157,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:subtitle
+          @attr name com.facebook.react:subtitle
         */
         public static int ActionBar_subtitle = 5;
         /**
@@ -3169,7 +3169,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:subtitleTextStyle
+          @attr name com.facebook.react:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 7;
         /**
@@ -3185,7 +3185,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:title
+          @attr name com.facebook.react:title
         */
         public static int ActionBar_title = 0;
         /**
@@ -3197,7 +3197,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:titleTextStyle
+          @attr name com.facebook.react:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 6;
         /**  Valid LayoutParams for views placed in the action bar as custom views. 
@@ -3249,12 +3249,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.example.com.facebook.react:background}</code></td><td> Specifies a background for the action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.example.com.facebook.react:backgroundSplit}</code></td><td> Specifies a background for the split action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.example.com.facebook.react:closeItemLayout}</code></td><td> Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-           <tr><td><code>{@link #ActionMode_height com.example.com.facebook.react:height}</code></td><td> Specifies a fixed height for the action mode bar.</td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.com.facebook.react:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.example.com.facebook.react:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
+           <tr><td><code>{@link #ActionMode_background com.facebook.react:background}</code></td><td> Specifies a background for the action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.facebook.react:backgroundSplit}</code></td><td> Specifies a background for the split action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.facebook.react:closeItemLayout}</code></td><td> Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+           <tr><td><code>{@link #ActionMode_height com.facebook.react:height}</code></td><td> Specifies a fixed height for the action mode bar.</td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.facebook.react:subtitleTextStyle}</code></td><td> Specifies a style to use for subtitle text.</td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.facebook.react:titleTextStyle}</code></td><td> Specifies a style to use for title text.</td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3276,7 +3276,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:background
+          @attr name com.facebook.react:background
         */
         public static int ActionMode_background = 3;
         /**
@@ -3290,7 +3290,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:backgroundSplit
+          @attr name com.facebook.react:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 4;
         /**
@@ -3302,7 +3302,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:closeItemLayout
+          @attr name com.facebook.react:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 5;
         /**
@@ -3320,7 +3320,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:height
+          @attr name com.facebook.react:height
         */
         public static int ActionMode_height = 0;
         /**
@@ -3332,7 +3332,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:subtitleTextStyle
+          @attr name com.facebook.react:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 2;
         /**
@@ -3344,7 +3344,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:titleTextStyle
+          @attr name com.facebook.react:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 1;
         /**  Attrbitutes for a ActivityChooserView. 
@@ -3353,8 +3353,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.com.facebook.react:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.com.facebook.react:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.facebook.react:expandActivityOverflowButtonDrawable}</code></td><td> The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.facebook.react:initialActivityCount}</code></td><td> The maximal number of items initially shown in the activity list.</td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3376,7 +3376,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:expandActivityOverflowButtonDrawable
+          @attr name com.facebook.react:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
@@ -3392,7 +3392,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:initialActivityCount
+          @attr name com.facebook.react:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /**  The set of attributes that describe a AlertDialog's theme. 
@@ -3402,11 +3402,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.com.facebook.react:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.example.com.facebook.react:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.example.com.facebook.react:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.com.facebook.react:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.com.facebook.react:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.facebook.react:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.facebook.react:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.facebook.react:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.facebook.react:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.facebook.react:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3426,53 +3426,53 @@ containing a value of this type.
         */
         public static int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:buttonPanelSideLayout
+          @attr name com.facebook.react:buttonPanelSideLayout
         */
         public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:listItemLayout
+          @attr name com.facebook.react:listItemLayout
         */
         public static int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:listLayout
+          @attr name com.facebook.react:listLayout
         */
         public static int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:multiChoiceItemLayout
+          @attr name com.facebook.react:multiChoiceItemLayout
         */
         public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:singleChoiceItemLayout
+          @attr name com.facebook.react:singleChoiceItemLayout
         */
         public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3482,7 +3482,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.com.facebook.react:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.facebook.react:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3506,7 +3506,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAllCaps
+          @attr name com.facebook.react:textAllCaps
         */
         public static int AppCompatTextView_textAllCaps = 1;
         /**  @hide 
@@ -3515,7 +3515,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.com.facebook.react:allowStacking}</code></td><td> Whether to automatically stack the buttons when there is not
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.facebook.react:allowStacking}</code></td><td> Whether to automatically stack the buttons when there is not
              enough space to lay them out side-by-side.</td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
@@ -3537,7 +3537,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:allowStacking
+          @attr name com.facebook.react:allowStacking
         */
         public static int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CompoundButton.
@@ -3547,8 +3547,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.example.com.facebook.react:buttonTint}</code></td><td> Tint to apply to the button drawable.</td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.com.facebook.react:buttonTintMode}</code></td><td> Blending mode used to apply the button tint.</td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.facebook.react:buttonTint}</code></td><td> Tint to apply to the button drawable.</td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.facebook.react:buttonTintMode}</code></td><td> Blending mode used to apply the button tint.</td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3577,7 +3577,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonTint
+          @attr name com.facebook.react:buttonTint
         */
         public static int CompoundButton_buttonTint = 1;
         /**
@@ -3603,7 +3603,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td> [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonTintMode
+          @attr name com.facebook.react:buttonTintMode
         */
         public static int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3612,14 +3612,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.com.facebook.react:arrowHeadLength}</code></td><td> The length of the arrow head when formed to make an arrow </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.com.facebook.react:arrowShaftLength}</code></td><td> The length of the shaft when formed to make an arrow </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.com.facebook.react:barLength}</code></td><td> The length of the bars when they are parallel to each other </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.example.com.facebook.react:color}</code></td><td> The drawing color for the bars </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.com.facebook.react:drawableSize}</code></td><td> The total size of the drawable </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.com.facebook.react:gapBetweenBars}</code></td><td> The max gap between the bars when they are parallel to each other </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.com.facebook.react:spinBars}</code></td><td> Whether bars should rotate or not during transition </td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.com.facebook.react:thickness}</code></td><td> The thickness (stroke size) for the bar paint </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.facebook.react:arrowHeadLength}</code></td><td> The length of the arrow head when formed to make an arrow </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.facebook.react:arrowShaftLength}</code></td><td> The length of the shaft when formed to make an arrow </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.facebook.react:barLength}</code></td><td> The length of the bars when they are parallel to each other </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.facebook.react:color}</code></td><td> The drawing color for the bars </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.facebook.react:drawableSize}</code></td><td> The total size of the drawable </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.facebook.react:gapBetweenBars}</code></td><td> The max gap between the bars when they are parallel to each other </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.facebook.react:spinBars}</code></td><td> Whether bars should rotate or not during transition </td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.facebook.react:thickness}</code></td><td> The thickness (stroke size) for the bar paint </td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3649,7 +3649,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:arrowHeadLength
+          @attr name com.facebook.react:arrowHeadLength
         */
         public static int DrawerArrowToggle_arrowHeadLength = 4;
         /**
@@ -3667,7 +3667,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:arrowShaftLength
+          @attr name com.facebook.react:arrowShaftLength
         */
         public static int DrawerArrowToggle_arrowShaftLength = 5;
         /**
@@ -3685,7 +3685,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:barLength
+          @attr name com.facebook.react:barLength
         */
         public static int DrawerArrowToggle_barLength = 6;
         /**
@@ -3702,7 +3702,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:color
+          @attr name com.facebook.react:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
@@ -3720,7 +3720,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:drawableSize
+          @attr name com.facebook.react:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
@@ -3738,7 +3738,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:gapBetweenBars
+          @attr name com.facebook.react:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
@@ -3754,7 +3754,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:spinBars
+          @attr name com.facebook.react:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
@@ -3772,7 +3772,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:thickness
+          @attr name com.facebook.react:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3790,11 +3790,11 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td> Should the layout be a column or a row?  Use "horizontal"
              for a row, "vertical" for a column.</td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td> Defines the maximum weight sum.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.example.com.facebook.react:divider}</code></td><td> Drawable to use as a vertical divider between buttons.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.com.facebook.react:dividerPadding}</code></td><td> Size of padding on either end of a divider.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.com.facebook.react:measureWithLargestChild}</code></td><td> When set to true, all children with a weight will be considered having
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.facebook.react:divider}</code></td><td> Drawable to use as a vertical divider between buttons.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.facebook.react:dividerPadding}</code></td><td> Size of padding on either end of a divider.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.facebook.react:measureWithLargestChild}</code></td><td> When set to true, all children with a weight will be considered having
              the minimum size of the largest child.</td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.com.facebook.react:showDividers}</code></td><td> Setting for which dividers to show.</td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.facebook.react:showDividers}</code></td><td> Setting for which dividers to show.</td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3872,7 +3872,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:divider
+          @attr name com.facebook.react:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
@@ -3890,7 +3890,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dividerPadding
+          @attr name com.facebook.react:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
@@ -3908,7 +3908,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:measureWithLargestChild
+          @attr name com.facebook.react:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
@@ -3929,7 +3929,7 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:showDividers
+          @attr name com.facebook.react:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -4094,10 +4094,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.example.com.facebook.react:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.example.com.facebook.react:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
+           <tr><td><code>{@link #MenuItem_actionLayout com.facebook.react:actionLayout}</code></td><td> An optional layout to be used as an action view.</td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.facebook.react:actionProviderClass}</code></td><td> The name of an optional ActionProvider class to instantiate an action view
              and perform operations such as default action for that menu item.</td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.example.com.facebook.react:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
+           <tr><td><code>{@link #MenuItem_actionViewClass com.facebook.react:actionViewClass}</code></td><td> The name of an optional View class to instantiate and use as an
              action view.</td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td> The alphabetic shortcut key.</td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td> Whether the item is capable of displaying a check mark.</td></tr>
@@ -4113,7 +4113,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td> The title associated with the item.</td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td> The condensed title associated with the item.</td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td> Whether the item is shown/visible.</td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.example.com.facebook.react:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.facebook.react:showAsAction}</code></td><td> How this item should display in the Action Bar, if present.</td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -4151,7 +4151,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionLayout
+          @attr name com.facebook.react:actionLayout
         */
         public static int MenuItem_actionLayout = 14;
         /**
@@ -4170,7 +4170,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionProviderClass
+          @attr name com.facebook.react:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 16;
         /**
@@ -4188,7 +4188,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionViewClass
+          @attr name com.facebook.react:actionViewClass
         */
         public static int MenuItem_actionViewClass = 15;
         /**
@@ -4344,7 +4344,7 @@ containing a value of this type.
                  larger segment of its container. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:showAsAction
+          @attr name com.facebook.react:showAsAction
         */
         public static int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4360,7 +4360,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td> Default appearance of menu item text.</td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td> Default vertical divider between menu items.</td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td> Default animations for the menu.</td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.com.facebook.react:preserveIconSpacing}</code></td><td> Whether space should be reserved in layout when an icon is missing.</td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.facebook.react:preserveIconSpacing}</code></td><td> Whether space should be reserved in layout when an icon is missing.</td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4451,7 +4451,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:preserveIconSpacing
+          @attr name com.facebook.react:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4461,7 +4461,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.com.facebook.react:overlapAnchor}</code></td><td> Whether the popup window should overlap its anchor view.</td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.facebook.react:overlapAnchor}</code></td><td> Whether the popup window should overlap its anchor view.</td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4488,7 +4488,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:overlapAnchor
+          @attr name com.facebook.react:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4497,7 +4497,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.com.facebook.react:state_above_anchor}</code></td><td> State identifier indicating the popup will be above the anchor.</td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.facebook.react:state_above_anchor}</code></td><td> State identifier indicating the popup will be above the anchor.</td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4517,7 +4517,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:state_above_anchor
+          @attr name com.facebook.react:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -4530,20 +4530,20 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td> The IME options to set on the query text field.</td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td> The input type to set on the query text field.</td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td> An optional maximum width of the SearchView.</td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.example.com.facebook.react:closeIcon}</code></td><td> Close button icon </td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.example.com.facebook.react:commitIcon}</code></td><td> Commit icon shown in the query suggestion row </td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.example.com.facebook.react:defaultQueryHint}</code></td><td> Default query hint used when {@code queryHint} is undefined and
+           <tr><td><code>{@link #SearchView_closeIcon com.facebook.react:closeIcon}</code></td><td> Close button icon </td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.facebook.react:commitIcon}</code></td><td> Commit icon shown in the query suggestion row </td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.facebook.react:defaultQueryHint}</code></td><td> Default query hint used when {@code queryHint} is undefined and
              the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.example.com.facebook.react:goIcon}</code></td><td> Go button icon </td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.com.facebook.react:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
-           <tr><td><code>{@link #SearchView_layout com.example.com.facebook.react:layout}</code></td><td> The layout to use for the search view.</td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.example.com.facebook.react:queryBackground}</code></td><td> Background for the section containing the search query </td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.example.com.facebook.react:queryHint}</code></td><td> An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.example.com.facebook.react:searchHintIcon}</code></td><td> Search icon displayed as a text field hint </td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.example.com.facebook.react:searchIcon}</code></td><td> Search icon </td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.example.com.facebook.react:submitBackground}</code></td><td> Background for the section containing the action (e.</td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.com.facebook.react:suggestionRowLayout}</code></td><td> Layout for query suggestion rows </td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.example.com.facebook.react:voiceIcon}</code></td><td> Voice button icon </td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.facebook.react:goIcon}</code></td><td> Go button icon </td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.facebook.react:iconifiedByDefault}</code></td><td> The default state of the SearchView.</td></tr>
+           <tr><td><code>{@link #SearchView_layout com.facebook.react:layout}</code></td><td> The layout to use for the search view.</td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.facebook.react:queryBackground}</code></td><td> Background for the section containing the search query </td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.facebook.react:queryHint}</code></td><td> An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.facebook.react:searchHintIcon}</code></td><td> Search icon displayed as a text field hint </td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.facebook.react:searchIcon}</code></td><td> Search icon </td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.facebook.react:submitBackground}</code></td><td> Background for the section containing the action (e.</td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.facebook.react:suggestionRowLayout}</code></td><td> Layout for query suggestion rows </td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.facebook.react:voiceIcon}</code></td><td> Voice button icon </td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4612,7 +4612,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:closeIcon
+          @attr name com.facebook.react:closeIcon
         */
         public static int SearchView_closeIcon = 8;
         /**
@@ -4624,7 +4624,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:commitIcon
+          @attr name com.facebook.react:commitIcon
         */
         public static int SearchView_commitIcon = 13;
         /**
@@ -4641,7 +4641,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:defaultQueryHint
+          @attr name com.facebook.react:defaultQueryHint
         */
         public static int SearchView_defaultQueryHint = 7;
         /**
@@ -4653,7 +4653,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:goIcon
+          @attr name com.facebook.react:goIcon
         */
         public static int SearchView_goIcon = 9;
         /**
@@ -4670,7 +4670,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:iconifiedByDefault
+          @attr name com.facebook.react:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
@@ -4682,7 +4682,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:layout
+          @attr name com.facebook.react:layout
         */
         public static int SearchView_layout = 4;
         /**
@@ -4694,7 +4694,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:queryBackground
+          @attr name com.facebook.react:queryBackground
         */
         public static int SearchView_queryBackground = 15;
         /**
@@ -4710,7 +4710,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:queryHint
+          @attr name com.facebook.react:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
@@ -4722,7 +4722,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:searchHintIcon
+          @attr name com.facebook.react:searchHintIcon
         */
         public static int SearchView_searchHintIcon = 11;
         /**
@@ -4734,7 +4734,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:searchIcon
+          @attr name com.facebook.react:searchIcon
         */
         public static int SearchView_searchIcon = 10;
         /**
@@ -4746,7 +4746,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:submitBackground
+          @attr name com.facebook.react:submitBackground
         */
         public static int SearchView_submitBackground = 16;
         /**
@@ -4758,7 +4758,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:suggestionRowLayout
+          @attr name com.facebook.react:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 14;
         /**
@@ -4770,7 +4770,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:voiceIcon
+          @attr name com.facebook.react:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -4782,7 +4782,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td> Width of the dropdown in spinnerMode="dropdown".</td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td> Background drawable to use for the dropdown in spinnerMode="dropdown".</td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td> The prompt to display when the spinner's dialog is shown.</td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.example.com.facebook.react:popupTheme}</code></td><td> Theme to use for the drop-down or dialog popup window.</td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.facebook.react:popupTheme}</code></td><td> Theme to use for the drop-down or dialog popup window.</td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -4828,7 +4828,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:popupTheme
+          @attr name com.facebook.react:popupTheme
         */
         public static int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -4840,13 +4840,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td> Text to use when the switch is in the unchecked/"off" state.</td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td> Text to use when the switch is in the checked/"on" state.</td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td> Drawable to use as the "thumb" that switches back and forth.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.example.com.facebook.react:showText}</code></td><td> Whether to draw on/off text.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.example.com.facebook.react:splitTrack}</code></td><td> Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.com.facebook.react:switchMinWidth}</code></td><td> Minimum width for the switch component </td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.example.com.facebook.react:switchPadding}</code></td><td> Minimum space between the switch and caption text </td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.com.facebook.react:switchTextAppearance}</code></td><td> TextAppearance style for text displayed on the switch thumb.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.com.facebook.react:thumbTextPadding}</code></td><td> Amount of padding on either side of text within the switch thumb.</td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.example.com.facebook.react:track}</code></td><td> Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.facebook.react:showText}</code></td><td> Whether to draw on/off text.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.facebook.react:splitTrack}</code></td><td> Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.facebook.react:switchMinWidth}</code></td><td> Minimum width for the switch component </td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.facebook.react:switchPadding}</code></td><td> Minimum space between the switch and caption text </td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.facebook.react:switchTextAppearance}</code></td><td> TextAppearance style for text displayed on the switch thumb.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.facebook.react:thumbTextPadding}</code></td><td> Amount of padding on either side of text within the switch thumb.</td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.facebook.react:track}</code></td><td> Drawable to use as the "track" that the switch thumb slides within.</td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4904,7 +4904,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:showText
+          @attr name com.facebook.react:showText
         */
         public static int SwitchCompat_showText = 9;
         /**
@@ -4920,7 +4920,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:splitTrack
+          @attr name com.facebook.react:splitTrack
         */
         public static int SwitchCompat_splitTrack = 8;
         /**
@@ -4938,7 +4938,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:switchMinWidth
+          @attr name com.facebook.react:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 6;
         /**
@@ -4956,7 +4956,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:switchPadding
+          @attr name com.facebook.react:switchPadding
         */
         public static int SwitchCompat_switchPadding = 7;
         /**
@@ -4968,7 +4968,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:switchTextAppearance
+          @attr name com.facebook.react:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 5;
         /**
@@ -4986,7 +4986,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:thumbTextPadding
+          @attr name com.facebook.react:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 4;
         /**
@@ -4998,7 +4998,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:track
+          @attr name com.facebook.react:track
         */
         public static int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -5015,7 +5015,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.example.com.facebook.react:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.facebook.react:textAllCaps}</code></td><td> Present the text in ALL CAPS.</td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -5090,7 +5090,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAllCaps
+          @attr name com.facebook.react:textAllCaps
         */
         public static int TextAppearance_textAllCaps = 8;
         /**  These are the standard attributes that make up a complete theme. 
@@ -5099,132 +5099,132 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.example.com.facebook.react:actionBarDivider}</code></td><td> Custom divider drawable to use for elements in the action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.example.com.facebook.react:actionBarItemBackground}</code></td><td> Custom item state list drawable background for action bar items.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.example.com.facebook.react:actionBarPopupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #Theme_actionBarDivider com.facebook.react:actionBarDivider}</code></td><td> Custom divider drawable to use for elements in the action bar.</td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.facebook.react:actionBarItemBackground}</code></td><td> Custom item state list drawable background for action bar items.</td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.facebook.react:actionBarPopupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.example.com.facebook.react:actionBarSize}</code></td><td> Size of the Action Bar, including the contextual
+           <tr><td><code>{@link #Theme_actionBarSize com.facebook.react:actionBarSize}</code></td><td> Size of the Action Bar, including the contextual
              bar used to present Action Modes.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.example.com.facebook.react:actionBarSplitStyle}</code></td><td> Reference to a style for the split Action Bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.example.com.facebook.react:actionBarStyle}</code></td><td> Reference to a style for the Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.example.com.facebook.react:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.example.com.facebook.react:actionBarTabStyle}</code></td><td> Default style for tabs within an action bar </td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.example.com.facebook.react:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.example.com.facebook.react:actionBarTheme}</code></td><td> Reference to a theme that should be used to inflate the
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.facebook.react:actionBarSplitStyle}</code></td><td> Reference to a style for the split Action Bar.</td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.facebook.react:actionBarStyle}</code></td><td> Reference to a style for the Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.facebook.react:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.facebook.react:actionBarTabStyle}</code></td><td> Default style for tabs within an action bar </td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.facebook.react:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.facebook.react:actionBarTheme}</code></td><td> Reference to a theme that should be used to inflate the
              action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.example.com.facebook.react:actionBarWidgetTheme}</code></td><td> Reference to a theme that should be used to inflate widgets
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.facebook.react:actionBarWidgetTheme}</code></td><td> Reference to a theme that should be used to inflate widgets
              and layouts destined for the action bar.</td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.example.com.facebook.react:actionButtonStyle}</code></td><td> Default action button style.</td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.example.com.facebook.react:actionDropDownStyle}</code></td><td> Default ActionBar dropdown style.</td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.example.com.facebook.react:actionMenuTextAppearance}</code></td><td> TextAppearance style that will be applied to text that
+           <tr><td><code>{@link #Theme_actionButtonStyle com.facebook.react:actionButtonStyle}</code></td><td> Default action button style.</td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.facebook.react:actionDropDownStyle}</code></td><td> Default ActionBar dropdown style.</td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.facebook.react:actionMenuTextAppearance}</code></td><td> TextAppearance style that will be applied to text that
              appears within action menu items.</td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.example.com.facebook.react:actionMenuTextColor}</code></td><td> Color for text that appears within action menu items.</td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.example.com.facebook.react:actionModeBackground}</code></td><td> Background drawable to use for action mode UI </td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.example.com.facebook.react:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.example.com.facebook.react:actionModeCloseDrawable}</code></td><td> Drawable to use for the close action mode button </td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.example.com.facebook.react:actionModeCopyDrawable}</code></td><td> Drawable to use for the Copy action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.example.com.facebook.react:actionModeCutDrawable}</code></td><td> Drawable to use for the Cut action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.example.com.facebook.react:actionModeFindDrawable}</code></td><td> Drawable to use for the Find action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.example.com.facebook.react:actionModePasteDrawable}</code></td><td> Drawable to use for the Paste action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.example.com.facebook.react:actionModePopupWindowStyle}</code></td><td> PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.example.com.facebook.react:actionModeSelectAllDrawable}</code></td><td> Drawable to use for the Select all action button in Contextual Action Bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.example.com.facebook.react:actionModeShareDrawable}</code></td><td> Drawable to use for the Share action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.example.com.facebook.react:actionModeSplitBackground}</code></td><td> Background drawable to use for action mode UI in the lower split bar </td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.example.com.facebook.react:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.example.com.facebook.react:actionModeWebSearchDrawable}</code></td><td> Drawable to use for the Web Search action button in WebView selection action modes </td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.example.com.facebook.react:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.example.com.facebook.react:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.example.com.facebook.react:activityChooserViewStyle}</code></td><td> Default ActivityChooserView style.</td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.example.com.facebook.react:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.example.com.facebook.react:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.example.com.facebook.react:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.example.com.facebook.react:alertDialogTheme}</code></td><td> Theme to use for alert dialogs spawned from this theme.</td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.facebook.react:actionMenuTextColor}</code></td><td> Color for text that appears within action menu items.</td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.facebook.react:actionModeBackground}</code></td><td> Background drawable to use for action mode UI </td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.facebook.react:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.facebook.react:actionModeCloseDrawable}</code></td><td> Drawable to use for the close action mode button </td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.facebook.react:actionModeCopyDrawable}</code></td><td> Drawable to use for the Copy action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.facebook.react:actionModeCutDrawable}</code></td><td> Drawable to use for the Cut action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.facebook.react:actionModeFindDrawable}</code></td><td> Drawable to use for the Find action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.facebook.react:actionModePasteDrawable}</code></td><td> Drawable to use for the Paste action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.facebook.react:actionModePopupWindowStyle}</code></td><td> PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.facebook.react:actionModeSelectAllDrawable}</code></td><td> Drawable to use for the Select all action button in Contextual Action Bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.facebook.react:actionModeShareDrawable}</code></td><td> Drawable to use for the Share action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.facebook.react:actionModeSplitBackground}</code></td><td> Background drawable to use for action mode UI in the lower split bar </td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.facebook.react:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.facebook.react:actionModeWebSearchDrawable}</code></td><td> Drawable to use for the Web Search action button in WebView selection action modes </td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.facebook.react:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.facebook.react:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.facebook.react:activityChooserViewStyle}</code></td><td> Default ActivityChooserView style.</td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.facebook.react:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.facebook.react:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.facebook.react:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.facebook.react:alertDialogTheme}</code></td><td> Theme to use for alert dialogs spawned from this theme.</td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.example.com.facebook.react:autoCompleteTextViewStyle}</code></td><td> Default AutoCompleteTextView style.</td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.example.com.facebook.react:borderlessButtonStyle}</code></td><td> Style for buttons without an explicit border, often used in groups.</td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.example.com.facebook.react:buttonBarButtonStyle}</code></td><td> Style for buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.example.com.facebook.react:buttonBarNegativeButtonStyle}</code></td><td> Style for the "negative" buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.example.com.facebook.react:buttonBarNeutralButtonStyle}</code></td><td> Style for the "neutral" buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.example.com.facebook.react:buttonBarPositiveButtonStyle}</code></td><td> Style for the "positive" buttons within button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.example.com.facebook.react:buttonBarStyle}</code></td><td> Style for button bars </td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.example.com.facebook.react:buttonStyle}</code></td><td> Normal Button style.</td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.example.com.facebook.react:buttonStyleSmall}</code></td><td> Small Button style.</td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.example.com.facebook.react:checkboxStyle}</code></td><td> Default Checkbox style.</td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.example.com.facebook.react:checkedTextViewStyle}</code></td><td> Default CheckedTextView style.</td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.example.com.facebook.react:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.example.com.facebook.react:colorButtonNormal}</code></td><td> The color applied to framework buttons in their normal state.</td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.example.com.facebook.react:colorControlActivated}</code></td><td> The color applied to framework controls in their activated (ex.</td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.example.com.facebook.react:colorControlHighlight}</code></td><td> The color applied to framework control highlights (ex.</td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.example.com.facebook.react:colorControlNormal}</code></td><td> The color applied to framework controls in their normal state.</td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.example.com.facebook.react:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.example.com.facebook.react:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.example.com.facebook.react:colorSwitchThumbNormal}</code></td><td> The color applied to framework switch thumbs in their normal state.</td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.example.com.facebook.react:controlBackground}</code></td><td> The background used by framework controls.</td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.example.com.facebook.react:dialogPreferredPadding}</code></td><td> Preferred padding for dialog content.</td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.example.com.facebook.react:dialogTheme}</code></td><td> Theme to use for dialogs spawned from this theme.</td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.example.com.facebook.react:dividerHorizontal}</code></td><td> A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.example.com.facebook.react:dividerVertical}</code></td><td> A drawable that may be used as a vertical divider between visual elements.</td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.example.com.facebook.react:dropDownListViewStyle}</code></td><td> ListPopupWindow compatibility </td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.example.com.facebook.react:dropdownListPreferredItemHeight}</code></td><td> The preferred item height for dropdown lists.</td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.example.com.facebook.react:editTextBackground}</code></td><td> EditText background drawable.</td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.example.com.facebook.react:editTextColor}</code></td><td> EditText text foreground color.</td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.example.com.facebook.react:editTextStyle}</code></td><td> Default EditText style.</td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.example.com.facebook.react:homeAsUpIndicator}</code></td><td> Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle com.example.com.facebook.react:imageButtonStyle}</code></td><td> ImageButton background drawable.</td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.example.com.facebook.react:listChoiceBackgroundIndicator}</code></td><td> Drawable used as a background for selected list items.</td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.example.com.facebook.react:listDividerAlertDialog}</code></td><td> The list divider used in alert dialogs.</td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.example.com.facebook.react:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.example.com.facebook.react:listPreferredItemHeight}</code></td><td> The preferred list item height.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.example.com.facebook.react:listPreferredItemHeightLarge}</code></td><td> A larger, more robust list item height.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.example.com.facebook.react:listPreferredItemHeightSmall}</code></td><td> A smaller, sleeker list item height.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.example.com.facebook.react:listPreferredItemPaddingLeft}</code></td><td> The preferred padding along the left edge of list items.</td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.example.com.facebook.react:listPreferredItemPaddingRight}</code></td><td> The preferred padding along the right edge of list items.</td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.example.com.facebook.react:panelBackground}</code></td><td> The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.example.com.facebook.react:panelMenuListTheme}</code></td><td> Default Panel Menu style.</td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.example.com.facebook.react:panelMenuListWidth}</code></td><td> Default Panel Menu width.</td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.example.com.facebook.react:popupMenuStyle}</code></td><td> Default PopupMenu style.</td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.example.com.facebook.react:popupWindowStyle}</code></td><td> Default PopupWindow style.</td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.example.com.facebook.react:radioButtonStyle}</code></td><td> Default RadioButton style.</td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.example.com.facebook.react:ratingBarStyle}</code></td><td> Default RatingBar style.</td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.example.com.facebook.react:searchViewStyle}</code></td><td> Style for the search query widget.</td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle com.example.com.facebook.react:seekBarStyle}</code></td><td> Default SeekBar style.</td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.example.com.facebook.react:selectableItemBackground}</code></td><td> A style that may be applied to buttons or other selectable items
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.facebook.react:autoCompleteTextViewStyle}</code></td><td> Default AutoCompleteTextView style.</td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.facebook.react:borderlessButtonStyle}</code></td><td> Style for buttons without an explicit border, often used in groups.</td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.facebook.react:buttonBarButtonStyle}</code></td><td> Style for buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.facebook.react:buttonBarNegativeButtonStyle}</code></td><td> Style for the "negative" buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.facebook.react:buttonBarNeutralButtonStyle}</code></td><td> Style for the "neutral" buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.facebook.react:buttonBarPositiveButtonStyle}</code></td><td> Style for the "positive" buttons within button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.facebook.react:buttonBarStyle}</code></td><td> Style for button bars </td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.facebook.react:buttonStyle}</code></td><td> Normal Button style.</td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.facebook.react:buttonStyleSmall}</code></td><td> Small Button style.</td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.facebook.react:checkboxStyle}</code></td><td> Default Checkbox style.</td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.facebook.react:checkedTextViewStyle}</code></td><td> Default CheckedTextView style.</td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.facebook.react:colorAccent}</code></td><td> Bright complement to the primary branding color.</td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.facebook.react:colorButtonNormal}</code></td><td> The color applied to framework buttons in their normal state.</td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.facebook.react:colorControlActivated}</code></td><td> The color applied to framework controls in their activated (ex.</td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.facebook.react:colorControlHighlight}</code></td><td> The color applied to framework control highlights (ex.</td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.facebook.react:colorControlNormal}</code></td><td> The color applied to framework controls in their normal state.</td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.facebook.react:colorPrimary}</code></td><td> The primary branding color for the app.</td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.facebook.react:colorPrimaryDark}</code></td><td> Dark variant of the primary branding color.</td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.facebook.react:colorSwitchThumbNormal}</code></td><td> The color applied to framework switch thumbs in their normal state.</td></tr>
+           <tr><td><code>{@link #Theme_controlBackground com.facebook.react:controlBackground}</code></td><td> The background used by framework controls.</td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.facebook.react:dialogPreferredPadding}</code></td><td> Preferred padding for dialog content.</td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.facebook.react:dialogTheme}</code></td><td> Theme to use for dialogs spawned from this theme.</td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.facebook.react:dividerHorizontal}</code></td><td> A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.facebook.react:dividerVertical}</code></td><td> A drawable that may be used as a vertical divider between visual elements.</td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.facebook.react:dropDownListViewStyle}</code></td><td> ListPopupWindow compatibility </td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.facebook.react:dropdownListPreferredItemHeight}</code></td><td> The preferred item height for dropdown lists.</td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.facebook.react:editTextBackground}</code></td><td> EditText background drawable.</td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.facebook.react:editTextColor}</code></td><td> EditText text foreground color.</td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.facebook.react:editTextStyle}</code></td><td> Default EditText style.</td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.facebook.react:homeAsUpIndicator}</code></td><td> Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+           <tr><td><code>{@link #Theme_imageButtonStyle com.facebook.react:imageButtonStyle}</code></td><td> ImageButton background drawable.</td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.facebook.react:listChoiceBackgroundIndicator}</code></td><td> Drawable used as a background for selected list items.</td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.facebook.react:listDividerAlertDialog}</code></td><td> The list divider used in alert dialogs.</td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.facebook.react:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.facebook.react:listPreferredItemHeight}</code></td><td> The preferred list item height.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.facebook.react:listPreferredItemHeightLarge}</code></td><td> A larger, more robust list item height.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.facebook.react:listPreferredItemHeightSmall}</code></td><td> A smaller, sleeker list item height.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.facebook.react:listPreferredItemPaddingLeft}</code></td><td> The preferred padding along the left edge of list items.</td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.facebook.react:listPreferredItemPaddingRight}</code></td><td> The preferred padding along the right edge of list items.</td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.facebook.react:panelBackground}</code></td><td> The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.facebook.react:panelMenuListTheme}</code></td><td> Default Panel Menu style.</td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.facebook.react:panelMenuListWidth}</code></td><td> Default Panel Menu width.</td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.facebook.react:popupMenuStyle}</code></td><td> Default PopupMenu style.</td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.facebook.react:popupWindowStyle}</code></td><td> Default PopupWindow style.</td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.facebook.react:radioButtonStyle}</code></td><td> Default RadioButton style.</td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.facebook.react:ratingBarStyle}</code></td><td> Default RatingBar style.</td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.facebook.react:searchViewStyle}</code></td><td> Style for the search query widget.</td></tr>
+           <tr><td><code>{@link #Theme_seekBarStyle com.facebook.react:seekBarStyle}</code></td><td> Default SeekBar style.</td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.facebook.react:selectableItemBackground}</code></td><td> A style that may be applied to buttons or other selectable items
              that should react to pressed and focus states, but that do not
              have a clear visual border along the edges.</td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.example.com.facebook.react:selectableItemBackgroundBorderless}</code></td><td> Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.example.com.facebook.react:spinnerDropDownItemStyle}</code></td><td> Default Spinner style.</td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.example.com.facebook.react:spinnerStyle}</code></td><td> Default Spinner style.</td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.example.com.facebook.react:switchStyle}</code></td><td> Default style for the Switch widget.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.example.com.facebook.react:textAppearanceLargePopupMenu}</code></td><td> Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.example.com.facebook.react:textAppearanceListItem}</code></td><td> The preferred TextAppearance for the primary text of list items.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.example.com.facebook.react:textAppearanceListItemSmall}</code></td><td> The preferred TextAppearance for the primary text of small list items.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.example.com.facebook.react:textAppearanceSearchResultSubtitle}</code></td><td> Text color, typeface, size, and style for system search result subtitle.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.example.com.facebook.react:textAppearanceSearchResultTitle}</code></td><td> Text color, typeface, size, and style for system search result title.</td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.example.com.facebook.react:textAppearanceSmallPopupMenu}</code></td><td> Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.example.com.facebook.react:textColorAlertDialogListItem}</code></td><td> Color of list item text in alert dialogs.</td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.example.com.facebook.react:textColorSearchUrl}</code></td><td> Text color for urls in search suggestions, used by things like global search </td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.example.com.facebook.react:toolbarNavigationButtonStyle}</code></td><td> Default Toolar NavigationButtonStyle </td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.example.com.facebook.react:toolbarStyle}</code></td><td> Default Toolbar style.</td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.example.com.facebook.react:windowActionBar}</code></td><td> Flag indicating whether this window should have an Action Bar
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.facebook.react:selectableItemBackgroundBorderless}</code></td><td> Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.facebook.react:spinnerDropDownItemStyle}</code></td><td> Default Spinner style.</td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.facebook.react:spinnerStyle}</code></td><td> Default Spinner style.</td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.facebook.react:switchStyle}</code></td><td> Default style for the Switch widget.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.facebook.react:textAppearanceLargePopupMenu}</code></td><td> Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.facebook.react:textAppearanceListItem}</code></td><td> The preferred TextAppearance for the primary text of list items.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.facebook.react:textAppearanceListItemSmall}</code></td><td> The preferred TextAppearance for the primary text of small list items.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.facebook.react:textAppearanceSearchResultSubtitle}</code></td><td> Text color, typeface, size, and style for system search result subtitle.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.facebook.react:textAppearanceSearchResultTitle}</code></td><td> Text color, typeface, size, and style for system search result title.</td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.facebook.react:textAppearanceSmallPopupMenu}</code></td><td> Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.facebook.react:textColorAlertDialogListItem}</code></td><td> Color of list item text in alert dialogs.</td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.facebook.react:textColorSearchUrl}</code></td><td> Text color for urls in search suggestions, used by things like global search </td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.facebook.react:toolbarNavigationButtonStyle}</code></td><td> Default Toolar NavigationButtonStyle </td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.facebook.react:toolbarStyle}</code></td><td> Default Toolbar style.</td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.facebook.react:windowActionBar}</code></td><td> Flag indicating whether this window should have an Action Bar
              in place of the usual title bar.</td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.example.com.facebook.react:windowActionBarOverlay}</code></td><td> Flag indicating whether this window's Action Bar should overlay
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.facebook.react:windowActionBarOverlay}</code></td><td> Flag indicating whether this window's Action Bar should overlay
              application content.</td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.example.com.facebook.react:windowActionModeOverlay}</code></td><td> Flag indicating whether action modes should overlay window content
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.facebook.react:windowActionModeOverlay}</code></td><td> Flag indicating whether action modes should overlay window content
              when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.example.com.facebook.react:windowFixedHeightMajor}</code></td><td> A fixed height for the window along the major axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.facebook.react:windowFixedHeightMajor}</code></td><td> A fixed height for the window along the major axis of the screen,
              that is, when in portrait.</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.example.com.facebook.react:windowFixedHeightMinor}</code></td><td> A fixed height for the window along the minor axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.facebook.react:windowFixedHeightMinor}</code></td><td> A fixed height for the window along the minor axis of the screen,
              that is, when in landscape.</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.example.com.facebook.react:windowFixedWidthMajor}</code></td><td> A fixed width for the window along the major axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.facebook.react:windowFixedWidthMajor}</code></td><td> A fixed width for the window along the major axis of the screen,
              that is, when in landscape.</td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.example.com.facebook.react:windowFixedWidthMinor}</code></td><td> A fixed width for the window along the minor axis of the screen,
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.facebook.react:windowFixedWidthMinor}</code></td><td> A fixed width for the window along the minor axis of the screen,
              that is, when in portrait.</td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.example.com.facebook.react:windowMinWidthMajor}</code></td><td> The minimum width the window is allowed to be, along the major
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.facebook.react:windowMinWidthMajor}</code></td><td> The minimum width the window is allowed to be, along the major
              axis of the screen.</td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.example.com.facebook.react:windowMinWidthMinor}</code></td><td> The minimum width the window is allowed to be, along the minor
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.facebook.react:windowMinWidthMinor}</code></td><td> The minimum width the window is allowed to be, along the minor
              axis of the screen.</td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.example.com.facebook.react:windowNoTitle}</code></td><td> Flag indicating whether there should be no title on this window.</td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.facebook.react:windowNoTitle}</code></td><td> Flag indicating whether there should be no title on this window.</td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5376,7 +5376,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarDivider
+          @attr name com.facebook.react:actionBarDivider
         */
         public static int Theme_actionBarDivider = 23;
         /**
@@ -5388,7 +5388,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarItemBackground
+          @attr name com.facebook.react:actionBarItemBackground
         */
         public static int Theme_actionBarItemBackground = 24;
         /**
@@ -5401,7 +5401,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarPopupTheme
+          @attr name com.facebook.react:actionBarPopupTheme
         */
         public static int Theme_actionBarPopupTheme = 17;
         /**
@@ -5428,7 +5428,7 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarSize
+          @attr name com.facebook.react:actionBarSize
         */
         public static int Theme_actionBarSize = 22;
         /**
@@ -5443,7 +5443,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarSplitStyle
+          @attr name com.facebook.react:actionBarSplitStyle
         */
         public static int Theme_actionBarSplitStyle = 19;
         /**
@@ -5455,17 +5455,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarStyle
+          @attr name com.facebook.react:actionBarStyle
         */
         public static int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:actionBarTabBarStyle
+          @attr name com.facebook.react:actionBarTabBarStyle
         */
         public static int Theme_actionBarTabBarStyle = 13;
         /**
@@ -5477,17 +5477,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarTabStyle
+          @attr name com.facebook.react:actionBarTabStyle
         */
         public static int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:actionBarTabTextStyle
+          @attr name com.facebook.react:actionBarTabTextStyle
         */
         public static int Theme_actionBarTabTextStyle = 14;
         /**
@@ -5501,7 +5501,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarTheme
+          @attr name com.facebook.react:actionBarTheme
         */
         public static int Theme_actionBarTheme = 20;
         /**
@@ -5519,7 +5519,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionBarWidgetTheme
+          @attr name com.facebook.react:actionBarWidgetTheme
         */
         public static int Theme_actionBarWidgetTheme = 21;
         /**
@@ -5531,7 +5531,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionButtonStyle
+          @attr name com.facebook.react:actionButtonStyle
         */
         public static int Theme_actionButtonStyle = 49;
         /**
@@ -5543,7 +5543,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionDropDownStyle
+          @attr name com.facebook.react:actionDropDownStyle
         */
         public static int Theme_actionDropDownStyle = 45;
         /**
@@ -5556,7 +5556,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionMenuTextAppearance
+          @attr name com.facebook.react:actionMenuTextAppearance
         */
         public static int Theme_actionMenuTextAppearance = 25;
         /**
@@ -5571,7 +5571,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionMenuTextColor
+          @attr name com.facebook.react:actionMenuTextColor
         */
         public static int Theme_actionMenuTextColor = 26;
         /**
@@ -5583,17 +5583,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeBackground
+          @attr name com.facebook.react:actionModeBackground
         */
         public static int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:actionModeCloseButtonStyle
+          @attr name com.facebook.react:actionModeCloseButtonStyle
         */
         public static int Theme_actionModeCloseButtonStyle = 28;
         /**
@@ -5605,7 +5605,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeCloseDrawable
+          @attr name com.facebook.react:actionModeCloseDrawable
         */
         public static int Theme_actionModeCloseDrawable = 31;
         /**
@@ -5617,7 +5617,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeCopyDrawable
+          @attr name com.facebook.react:actionModeCopyDrawable
         */
         public static int Theme_actionModeCopyDrawable = 33;
         /**
@@ -5629,7 +5629,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeCutDrawable
+          @attr name com.facebook.react:actionModeCutDrawable
         */
         public static int Theme_actionModeCutDrawable = 32;
         /**
@@ -5641,7 +5641,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeFindDrawable
+          @attr name com.facebook.react:actionModeFindDrawable
         */
         public static int Theme_actionModeFindDrawable = 37;
         /**
@@ -5653,7 +5653,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModePasteDrawable
+          @attr name com.facebook.react:actionModePasteDrawable
         */
         public static int Theme_actionModePasteDrawable = 34;
         /**
@@ -5665,7 +5665,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModePopupWindowStyle
+          @attr name com.facebook.react:actionModePopupWindowStyle
         */
         public static int Theme_actionModePopupWindowStyle = 39;
         /**
@@ -5677,7 +5677,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeSelectAllDrawable
+          @attr name com.facebook.react:actionModeSelectAllDrawable
         */
         public static int Theme_actionModeSelectAllDrawable = 35;
         /**
@@ -5689,7 +5689,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeShareDrawable
+          @attr name com.facebook.react:actionModeShareDrawable
         */
         public static int Theme_actionModeShareDrawable = 36;
         /**
@@ -5701,17 +5701,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeSplitBackground
+          @attr name com.facebook.react:actionModeSplitBackground
         */
         public static int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:actionModeStyle
+          @attr name com.facebook.react:actionModeStyle
         */
         public static int Theme_actionModeStyle = 27;
         /**
@@ -5723,27 +5723,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:actionModeWebSearchDrawable
+          @attr name com.facebook.react:actionModeWebSearchDrawable
         */
         public static int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:actionOverflowButtonStyle
+          @attr name com.facebook.react:actionOverflowButtonStyle
         */
         public static int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:actionOverflowMenuStyle
+          @attr name com.facebook.react:actionOverflowMenuStyle
         */
         public static int Theme_actionOverflowMenuStyle = 16;
         /**
@@ -5755,21 +5755,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:activityChooserViewStyle
+          @attr name com.facebook.react:activityChooserViewStyle
         */
         public static int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:alertDialogButtonGroupStyle
+          @attr name com.facebook.react:alertDialogButtonGroupStyle
         */
         public static int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5779,17 +5779,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:alertDialogCenterButtons
+          @attr name com.facebook.react:alertDialogCenterButtons
         */
         public static int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:alertDialogStyle
+          @attr name com.facebook.react:alertDialogStyle
         */
         public static int Theme_alertDialogStyle = 91;
         /**
@@ -5801,7 +5801,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:alertDialogTheme
+          @attr name com.facebook.react:alertDialogTheme
         */
         public static int Theme_alertDialogTheme = 94;
         /**
@@ -5825,7 +5825,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:autoCompleteTextViewStyle
+          @attr name com.facebook.react:autoCompleteTextViewStyle
         */
         public static int Theme_autoCompleteTextViewStyle = 99;
         /**
@@ -5837,7 +5837,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:borderlessButtonStyle
+          @attr name com.facebook.react:borderlessButtonStyle
         */
         public static int Theme_borderlessButtonStyle = 54;
         /**
@@ -5849,7 +5849,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonBarButtonStyle
+          @attr name com.facebook.react:buttonBarButtonStyle
         */
         public static int Theme_buttonBarButtonStyle = 51;
         /**
@@ -5861,7 +5861,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonBarNegativeButtonStyle
+          @attr name com.facebook.react:buttonBarNegativeButtonStyle
         */
         public static int Theme_buttonBarNegativeButtonStyle = 97;
         /**
@@ -5873,7 +5873,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonBarNeutralButtonStyle
+          @attr name com.facebook.react:buttonBarNeutralButtonStyle
         */
         public static int Theme_buttonBarNeutralButtonStyle = 98;
         /**
@@ -5885,7 +5885,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonBarPositiveButtonStyle
+          @attr name com.facebook.react:buttonBarPositiveButtonStyle
         */
         public static int Theme_buttonBarPositiveButtonStyle = 96;
         /**
@@ -5897,7 +5897,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonBarStyle
+          @attr name com.facebook.react:buttonBarStyle
         */
         public static int Theme_buttonBarStyle = 50;
         /**
@@ -5909,7 +5909,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonStyle
+          @attr name com.facebook.react:buttonStyle
         */
         public static int Theme_buttonStyle = 100;
         /**
@@ -5921,7 +5921,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:buttonStyleSmall
+          @attr name com.facebook.react:buttonStyleSmall
         */
         public static int Theme_buttonStyleSmall = 101;
         /**
@@ -5933,7 +5933,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:checkboxStyle
+          @attr name com.facebook.react:checkboxStyle
         */
         public static int Theme_checkboxStyle = 102;
         /**
@@ -5945,7 +5945,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:checkedTextViewStyle
+          @attr name com.facebook.react:checkedTextViewStyle
         */
         public static int Theme_checkedTextViewStyle = 103;
         /**
@@ -5963,7 +5963,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorAccent
+          @attr name com.facebook.react:colorAccent
         */
         public static int Theme_colorAccent = 84;
         /**
@@ -5980,7 +5980,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorButtonNormal
+          @attr name com.facebook.react:colorButtonNormal
         */
         public static int Theme_colorButtonNormal = 88;
         /**
@@ -5997,7 +5997,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorControlActivated
+          @attr name com.facebook.react:colorControlActivated
         */
         public static int Theme_colorControlActivated = 86;
         /**
@@ -6014,7 +6014,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorControlHighlight
+          @attr name com.facebook.react:colorControlHighlight
         */
         public static int Theme_colorControlHighlight = 87;
         /**
@@ -6031,7 +6031,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorControlNormal
+          @attr name com.facebook.react:colorControlNormal
         */
         public static int Theme_colorControlNormal = 85;
         /**
@@ -6049,7 +6049,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorPrimary
+          @attr name com.facebook.react:colorPrimary
         */
         public static int Theme_colorPrimary = 82;
         /**
@@ -6067,7 +6067,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorPrimaryDark
+          @attr name com.facebook.react:colorPrimaryDark
         */
         public static int Theme_colorPrimaryDark = 83;
         /**
@@ -6084,7 +6084,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:colorSwitchThumbNormal
+          @attr name com.facebook.react:colorSwitchThumbNormal
         */
         public static int Theme_colorSwitchThumbNormal = 89;
         /**
@@ -6096,7 +6096,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:controlBackground
+          @attr name com.facebook.react:controlBackground
         */
         public static int Theme_controlBackground = 90;
         /**
@@ -6114,7 +6114,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dialogPreferredPadding
+          @attr name com.facebook.react:dialogPreferredPadding
         */
         public static int Theme_dialogPreferredPadding = 43;
         /**
@@ -6126,7 +6126,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dialogTheme
+          @attr name com.facebook.react:dialogTheme
         */
         public static int Theme_dialogTheme = 42;
         /**
@@ -6138,7 +6138,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dividerHorizontal
+          @attr name com.facebook.react:dividerHorizontal
         */
         public static int Theme_dividerHorizontal = 56;
         /**
@@ -6150,7 +6150,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dividerVertical
+          @attr name com.facebook.react:dividerVertical
         */
         public static int Theme_dividerVertical = 55;
         /**
@@ -6162,7 +6162,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dropDownListViewStyle
+          @attr name com.facebook.react:dropDownListViewStyle
         */
         public static int Theme_dropDownListViewStyle = 74;
         /**
@@ -6180,7 +6180,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:dropdownListPreferredItemHeight
+          @attr name com.facebook.react:dropdownListPreferredItemHeight
         */
         public static int Theme_dropdownListPreferredItemHeight = 46;
         /**
@@ -6192,7 +6192,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:editTextBackground
+          @attr name com.facebook.react:editTextBackground
         */
         public static int Theme_editTextBackground = 63;
         /**
@@ -6206,7 +6206,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:editTextColor
+          @attr name com.facebook.react:editTextColor
         */
         public static int Theme_editTextColor = 62;
         /**
@@ -6218,7 +6218,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:editTextStyle
+          @attr name com.facebook.react:editTextStyle
         */
         public static int Theme_editTextStyle = 104;
         /**
@@ -6230,7 +6230,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:homeAsUpIndicator
+          @attr name com.facebook.react:homeAsUpIndicator
         */
         public static int Theme_homeAsUpIndicator = 48;
         /**
@@ -6242,7 +6242,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:imageButtonStyle
+          @attr name com.facebook.react:imageButtonStyle
         */
         public static int Theme_imageButtonStyle = 64;
         /**
@@ -6254,7 +6254,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listChoiceBackgroundIndicator
+          @attr name com.facebook.react:listChoiceBackgroundIndicator
         */
         public static int Theme_listChoiceBackgroundIndicator = 81;
         /**
@@ -6266,17 +6266,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listDividerAlertDialog
+          @attr name com.facebook.react:listDividerAlertDialog
         */
         public static int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:listPopupWindowStyle
+          @attr name com.facebook.react:listPopupWindowStyle
         */
         public static int Theme_listPopupWindowStyle = 75;
         /**
@@ -6294,7 +6294,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listPreferredItemHeight
+          @attr name com.facebook.react:listPreferredItemHeight
         */
         public static int Theme_listPreferredItemHeight = 69;
         /**
@@ -6312,7 +6312,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listPreferredItemHeightLarge
+          @attr name com.facebook.react:listPreferredItemHeightLarge
         */
         public static int Theme_listPreferredItemHeightLarge = 71;
         /**
@@ -6330,7 +6330,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listPreferredItemHeightSmall
+          @attr name com.facebook.react:listPreferredItemHeightSmall
         */
         public static int Theme_listPreferredItemHeightSmall = 70;
         /**
@@ -6348,7 +6348,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listPreferredItemPaddingLeft
+          @attr name com.facebook.react:listPreferredItemPaddingLeft
         */
         public static int Theme_listPreferredItemPaddingLeft = 72;
         /**
@@ -6366,7 +6366,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:listPreferredItemPaddingRight
+          @attr name com.facebook.react:listPreferredItemPaddingRight
         */
         public static int Theme_listPreferredItemPaddingRight = 73;
         /**
@@ -6378,7 +6378,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:panelBackground
+          @attr name com.facebook.react:panelBackground
         */
         public static int Theme_panelBackground = 78;
         /**
@@ -6390,7 +6390,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:panelMenuListTheme
+          @attr name com.facebook.react:panelMenuListTheme
         */
         public static int Theme_panelMenuListTheme = 80;
         /**
@@ -6408,7 +6408,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:panelMenuListWidth
+          @attr name com.facebook.react:panelMenuListWidth
         */
         public static int Theme_panelMenuListWidth = 79;
         /**
@@ -6420,7 +6420,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:popupMenuStyle
+          @attr name com.facebook.react:popupMenuStyle
         */
         public static int Theme_popupMenuStyle = 60;
         /**
@@ -6432,7 +6432,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:popupWindowStyle
+          @attr name com.facebook.react:popupWindowStyle
         */
         public static int Theme_popupWindowStyle = 61;
         /**
@@ -6444,7 +6444,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:radioButtonStyle
+          @attr name com.facebook.react:radioButtonStyle
         */
         public static int Theme_radioButtonStyle = 105;
         /**
@@ -6456,7 +6456,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:ratingBarStyle
+          @attr name com.facebook.react:ratingBarStyle
         */
         public static int Theme_ratingBarStyle = 106;
         /**
@@ -6468,7 +6468,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:searchViewStyle
+          @attr name com.facebook.react:searchViewStyle
         */
         public static int Theme_searchViewStyle = 68;
         /**
@@ -6480,7 +6480,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:seekBarStyle
+          @attr name com.facebook.react:seekBarStyle
         */
         public static int Theme_seekBarStyle = 107;
         /**
@@ -6494,7 +6494,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:selectableItemBackground
+          @attr name com.facebook.react:selectableItemBackground
         */
         public static int Theme_selectableItemBackground = 52;
         /**
@@ -6506,7 +6506,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:selectableItemBackgroundBorderless
+          @attr name com.facebook.react:selectableItemBackgroundBorderless
         */
         public static int Theme_selectableItemBackgroundBorderless = 53;
         /**
@@ -6518,7 +6518,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:spinnerDropDownItemStyle
+          @attr name com.facebook.react:spinnerDropDownItemStyle
         */
         public static int Theme_spinnerDropDownItemStyle = 47;
         /**
@@ -6530,7 +6530,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:spinnerStyle
+          @attr name com.facebook.react:spinnerStyle
         */
         public static int Theme_spinnerStyle = 108;
         /**
@@ -6542,7 +6542,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:switchStyle
+          @attr name com.facebook.react:switchStyle
         */
         public static int Theme_switchStyle = 109;
         /**
@@ -6554,7 +6554,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAppearanceLargePopupMenu
+          @attr name com.facebook.react:textAppearanceLargePopupMenu
         */
         public static int Theme_textAppearanceLargePopupMenu = 40;
         /**
@@ -6566,7 +6566,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAppearanceListItem
+          @attr name com.facebook.react:textAppearanceListItem
         */
         public static int Theme_textAppearanceListItem = 76;
         /**
@@ -6578,7 +6578,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAppearanceListItemSmall
+          @attr name com.facebook.react:textAppearanceListItemSmall
         */
         public static int Theme_textAppearanceListItemSmall = 77;
         /**
@@ -6590,7 +6590,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAppearanceSearchResultSubtitle
+          @attr name com.facebook.react:textAppearanceSearchResultSubtitle
         */
         public static int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
@@ -6602,7 +6602,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAppearanceSearchResultTitle
+          @attr name com.facebook.react:textAppearanceSearchResultTitle
         */
         public static int Theme_textAppearanceSearchResultTitle = 65;
         /**
@@ -6614,7 +6614,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textAppearanceSmallPopupMenu
+          @attr name com.facebook.react:textAppearanceSmallPopupMenu
         */
         public static int Theme_textAppearanceSmallPopupMenu = 41;
         /**
@@ -6628,7 +6628,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textColorAlertDialogListItem
+          @attr name com.facebook.react:textColorAlertDialogListItem
         */
         public static int Theme_textColorAlertDialogListItem = 95;
         /**
@@ -6642,7 +6642,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:textColorSearchUrl
+          @attr name com.facebook.react:textColorSearchUrl
         */
         public static int Theme_textColorSearchUrl = 67;
         /**
@@ -6654,7 +6654,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:toolbarNavigationButtonStyle
+          @attr name com.facebook.react:toolbarNavigationButtonStyle
         */
         public static int Theme_toolbarNavigationButtonStyle = 59;
         /**
@@ -6666,7 +6666,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:toolbarStyle
+          @attr name com.facebook.react:toolbarStyle
         */
         public static int Theme_toolbarStyle = 58;
         /**
@@ -6683,7 +6683,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowActionBar
+          @attr name com.facebook.react:windowActionBar
         */
         public static int Theme_windowActionBar = 2;
         /**
@@ -6701,7 +6701,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowActionBarOverlay
+          @attr name com.facebook.react:windowActionBarOverlay
         */
         public static int Theme_windowActionBarOverlay = 4;
         /**
@@ -6718,7 +6718,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowActionModeOverlay
+          @attr name com.facebook.react:windowActionModeOverlay
         */
         public static int Theme_windowActionModeOverlay = 5;
         /**
@@ -6741,7 +6741,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowFixedHeightMajor
+          @attr name com.facebook.react:windowFixedHeightMajor
         */
         public static int Theme_windowFixedHeightMajor = 9;
         /**
@@ -6764,7 +6764,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowFixedHeightMinor
+          @attr name com.facebook.react:windowFixedHeightMinor
         */
         public static int Theme_windowFixedHeightMinor = 7;
         /**
@@ -6787,7 +6787,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowFixedWidthMajor
+          @attr name com.facebook.react:windowFixedWidthMajor
         */
         public static int Theme_windowFixedWidthMajor = 6;
         /**
@@ -6810,7 +6810,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowFixedWidthMinor
+          @attr name com.facebook.react:windowFixedWidthMinor
         */
         public static int Theme_windowFixedWidthMinor = 8;
         /**
@@ -6834,7 +6834,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowMinWidthMajor
+          @attr name com.facebook.react:windowMinWidthMajor
         */
         public static int Theme_windowMinWidthMajor = 10;
         /**
@@ -6858,7 +6858,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowMinWidthMinor
+          @attr name com.facebook.react:windowMinWidthMinor
         */
         public static int Theme_windowMinWidthMinor = 11;
         /**
@@ -6874,7 +6874,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:windowNoTitle
+          @attr name com.facebook.react:windowNoTitle
         */
         public static int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6885,34 +6885,34 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td> Allows us to read in the minHeight attr pre-v16 </td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.com.facebook.react:collapseContentDescription}</code></td><td> Text to set as the content description for the collapse button.</td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.example.com.facebook.react:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.com.facebook.react:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.com.facebook.react:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.example.com.facebook.react:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.example.com.facebook.react:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.example.com.facebook.react:logo}</code></td><td> Drawable to set as the logo that appears at the starting side of
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.facebook.react:collapseContentDescription}</code></td><td> Text to set as the content description for the collapse button.</td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.facebook.react:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.facebook.react:contentInsetEnd}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.facebook.react:contentInsetLeft}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.facebook.react:contentInsetRight}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.facebook.react:contentInsetStart}</code></td><td> Minimum inset for content views within a bar.</td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.facebook.react:logo}</code></td><td> Drawable to set as the logo that appears at the starting side of
              the Toolbar, just after the navigation button.</td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.example.com.facebook.react:logoDescription}</code></td><td> A content description string to describe the appearance of the
+           <tr><td><code>{@link #Toolbar_logoDescription com.facebook.react:logoDescription}</code></td><td> A content description string to describe the appearance of the
              associated logo image.</td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.com.facebook.react:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.com.facebook.react:navigationContentDescription}</code></td><td> Text to set as the content description for the navigation button
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.facebook.react:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.facebook.react:navigationContentDescription}</code></td><td> Text to set as the content description for the navigation button
              located at the start of the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.example.com.facebook.react:navigationIcon}</code></td><td> Icon drawable to use for the navigation button located at
+           <tr><td><code>{@link #Toolbar_navigationIcon com.facebook.react:navigationIcon}</code></td><td> Icon drawable to use for the navigation button located at
              the start of the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.example.com.facebook.react:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
+           <tr><td><code>{@link #Toolbar_popupTheme com.facebook.react:popupTheme}</code></td><td> Reference to a theme that should be used to inflate popups
              shown by widgets in the toolbar.</td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.example.com.facebook.react:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.com.facebook.react:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.com.facebook.react:subtitleTextColor}</code></td><td> A color to apply to the subtitle string.</td></tr>
-           <tr><td><code>{@link #Toolbar_title com.example.com.facebook.react:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.com.facebook.react:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.com.facebook.react:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.example.com.facebook.react:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.example.com.facebook.react:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.example.com.facebook.react:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.com.facebook.react:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.example.com.facebook.react:titleTextColor}</code></td><td> A color to apply to the title string.</td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.facebook.react:subtitle}</code></td><td> Specifies subtitle text used for navigationMode="normal" </td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.facebook.react:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.facebook.react:subtitleTextColor}</code></td><td> A color to apply to the subtitle string.</td></tr>
+           <tr><td><code>{@link #Toolbar_title com.facebook.react:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.facebook.react:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.facebook.react:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.facebook.react:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.facebook.react:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.facebook.react:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.facebook.react:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.facebook.react:titleTextColor}</code></td><td> A color to apply to the title string.</td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6977,17 +6977,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:collapseContentDescription
+          @attr name com.facebook.react:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:collapseIcon
+          @attr name com.facebook.react:collapseIcon
         */
         public static int Toolbar_collapseIcon = 18;
         /**
@@ -7006,7 +7006,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetEnd
+          @attr name com.facebook.react:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 6;
         /**
@@ -7025,7 +7025,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetLeft
+          @attr name com.facebook.react:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 7;
         /**
@@ -7044,7 +7044,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetRight
+          @attr name com.facebook.react:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 8;
         /**
@@ -7063,7 +7063,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:contentInsetStart
+          @attr name com.facebook.react:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 5;
         /**
@@ -7076,7 +7076,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:logo
+          @attr name com.facebook.react:logo
         */
         public static int Toolbar_logo = 4;
         /**
@@ -7093,11 +7093,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:logoDescription
+          @attr name com.facebook.react:logoDescription
         */
         public static int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7109,7 +7109,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:maxButtonHeight
+          @attr name com.facebook.react:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 17;
         /**
@@ -7126,7 +7126,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:navigationContentDescription
+          @attr name com.facebook.react:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 21;
         /**
@@ -7139,7 +7139,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:navigationIcon
+          @attr name com.facebook.react:navigationIcon
         */
         public static int Toolbar_navigationIcon = 20;
         /**
@@ -7152,7 +7152,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:popupTheme
+          @attr name com.facebook.react:popupTheme
         */
         public static int Toolbar_popupTheme = 9;
         /**
@@ -7168,17 +7168,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:subtitle
+          @attr name com.facebook.react:subtitle
         */
         public static int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:subtitleTextAppearance
+          @attr name com.facebook.react:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 11;
         /**
@@ -7195,11 +7195,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:subtitleTextColor
+          @attr name com.facebook.react:subtitleTextColor
         */
         public static int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#title}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7209,11 +7209,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:title
+          @attr name com.facebook.react:title
         */
         public static int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7225,11 +7225,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:titleMarginBottom
+          @attr name com.facebook.react:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7241,11 +7241,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:titleMarginEnd
+          @attr name com.facebook.react:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7257,11 +7257,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:titleMarginStart
+          @attr name com.facebook.react:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7273,11 +7273,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:titleMarginTop
+          @attr name com.facebook.react:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7289,17 +7289,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.com.facebook.react:titleMargins
+          @attr name com.facebook.react:titleMargins
         */
         public static int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.example.com.facebook.react.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.facebook.react.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.com.facebook.react:titleTextAppearance
+          @attr name com.facebook.react:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 10;
         /**
@@ -7316,7 +7316,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:titleTextColor
+          @attr name com.facebook.react:titleTextColor
         */
         public static int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -7327,9 +7327,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td> Boolean that controls whether a view can take focus.</td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td> Specifies a theme override for a view.</td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.example.com.facebook.react:paddingEnd}</code></td><td> Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-           <tr><td><code>{@link #View_paddingStart com.example.com.facebook.react:paddingStart}</code></td><td> Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-           <tr><td><code>{@link #View_theme com.example.com.facebook.react:theme}</code></td><td> Deprecated.</td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.facebook.react:paddingEnd}</code></td><td> Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+           <tr><td><code>{@link #View_paddingStart com.facebook.react:paddingStart}</code></td><td> Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+           <tr><td><code>{@link #View_theme com.facebook.react:theme}</code></td><td> Deprecated.</td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -7381,7 +7381,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:paddingEnd
+          @attr name com.facebook.react:paddingEnd
         */
         public static int View_paddingEnd = 3;
         /**
@@ -7399,7 +7399,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:paddingStart
+          @attr name com.facebook.react:paddingStart
         */
         public static int View_paddingStart = 2;
         /**
@@ -7411,7 +7411,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:theme
+          @attr name com.facebook.react:theme
         */
         public static int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -7421,8 +7421,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.com.facebook.react:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.com.facebook.react:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.facebook.react:backgroundTint}</code></td><td> Tint to apply to the background.</td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.facebook.react:backgroundTintMode}</code></td><td> Blending mode used to apply the background tint.</td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -7451,7 +7451,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:backgroundTint
+          @attr name com.facebook.react:backgroundTint
         */
         public static int ViewBackgroundHelper_backgroundTint = 1;
         /**
@@ -7477,7 +7477,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td> [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name com.example.com.facebook.react:backgroundTintMode
+          @attr name com.facebook.react:backgroundTintMode
         */
         public static int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

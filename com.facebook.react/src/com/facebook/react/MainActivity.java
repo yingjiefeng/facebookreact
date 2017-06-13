@@ -1,4 +1,4 @@
-package com.example.com.facebook.react;
+package com.facebook.react;
 
 
 
@@ -8,6 +8,6 @@ package com.example.com.facebook.react;
 //    protected void onCreate(Bundle savedInstanceState) {
 //        super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
-//    } 
+//    }
 // 
 //}
